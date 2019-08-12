@@ -8,11 +8,16 @@ This package is to be downloaded on the PC and connected to the [Robot version](
 
 **=======================================================**
 
-1- on PC setup tcp-interface to have all IP addresses
-2- on PC source and catkin catkin_real_patrolling_semanticN_PCmonitor
-3- on each real robot put catkin_real_patrolling_turtlebot folder
-4- on each real robot put tcp-interface with patrolling-sim (inside src folder)
+1- on PC setup tcp-interface to have all IP addresses.
+
+2- on PC source and catkin catkin_real_patrolling_semanticN_PCmonitor.
+
+3- on each real robot put catkin_real_patrolling_turtlebot folder.
+
+4- on each real robot put tcp-interface with patrolling-sim (inside src folder).
+
 5- on PC start experement with (niether or virtual option).
+
 6- on real robots start expermintis with it own options.
 
 **=======================================================**
