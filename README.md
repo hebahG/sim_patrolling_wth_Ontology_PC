@@ -29,13 +29,14 @@ This package is to be downloaded on the PC and connected to the [Robot version](
 - ./start_experiment_distributed.py
 
 
-		In this version, the start setup was modified to allow starting the monitor, stage, and swi-prolog nodes on a PC instead of robot. Even if there is no virtual robots. This is becuase TK1 processor in robots with armhf OS only use swi-prolog 6.6 which has a connection bug and the newer version is only for x64 and i32 v=OS.
+_In this version, the start setup was modified to allow starting the monitor, stage, and swi-prolog nodes on a PC instead of robot. Even if there is no virtual robots. This is becuase TK1 processor in robots with armhf OS only use swi-prolog 6.6 which has a connection bug and the newer version is only for x64 and i32 v=OS._
 
 **=======================================================**
 
 **Run Commands On PC**
 
 **=======================================================**
+	
 	> True on monitor
 	> Robot == if want to use virtual robots, then put virtual ==> otherwise put Niether
 
